@@ -1,10 +1,10 @@
 # Índice
-- [Objetivo: Analisis de los estudiantes inscritos en los ultimos seis años (2020-2025)](#analisis-de-los-estudiantes-inscritos-en-los-ultimos-seis-anos-2020-2025)
-- [Conclusion general](#conclusion-general)
+- [Analisis de los estudiantes inscritos en los ultimos seis años (2020-2025)](#analisis-de-los-estudiantes-inscritos-en-los-ultimos-seis-anos-2020-2025)
+- [Conclusión general](#conclusion-general)
 - [Hallazgos detallados](#hallazgos-detallados)
 - [Contenido del repositorio](#contenido-del-repositorio)
 - [Fuente de datos](#fuente-de-datos)
-- [Creditos](#creditos)
+- [Créditos](#creditos)
 
 
 # Análisis de los estudiantes inscritos en los últimos seis años (2020-2025)
