@@ -30,10 +30,10 @@ un 38% de las inscripciones totales (89,013). Le siguen el Tecnólogo en Multime
 Los estudiantes masculinos representan el 80% de las inscripciones totales, mientras que las féminas representan el 20%.
 
 ## 🗂️Contenido del repositorio
-**estudiantes_inscritos_ITLA.ipynb:** En este archivo se encuentra el código, el proceso paso a paso de filtrado y limpieza de datos, y 
+**https://github.com/fernan-15/ITLA_Analisis_inscritos/blob/main/estudiantes_inscritos_ITLA.ipynb :** En este archivo se encuentra el código, el proceso paso a paso de filtrado y limpieza de datos, y 
 los gráficos necesarios para responder nuestras preguntas. 
 
-**Dashboard_analisis_ITLA_estudiantes_inscritos.png:** Este archivo contiene un Dashboard hecho en Tableu con el análisis final
+**https://github.com/fernan-15/ITLA_Analisis_inscritos/blob/main/Dashboard_analisis_ITLA_estudiantes_inscritos.png :** Este archivo contiene un Dashboard hecho en Tableu con el análisis final
 
 ## 🌐Fuente de datos
 Los datos utilizados para este análisis son oficiales y han sido proporcionados por el Gobierno de la República Dominicana a través del portal de datos abiertos.
